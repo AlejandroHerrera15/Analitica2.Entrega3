@@ -3,4 +3,4 @@
 - Alejandro Herrera
 - Juan José Isaza
 - Camilo Loaiza
-- Estiven Gutierrez
+- Estiven Gutiérrez
